@@ -1,8 +1,9 @@
-### Hi there, I'm Alёna and I'm a frontend developer👋
+### Hi there,👋
+I'm Alёna and I'm a Frontend developer
 
-- 👩‍💻 I’m currently working on SavePets Website and 
+- 👩‍💻 I’m currently working on JavaScript and ReactJS and
 - 🔍 looking for position of junior react developer
-- 🌱 I’m currently learning React+Redux
+- 🌱 I’m currently learning advanced JavaScript concepts and Redux
 - 💬 Ask me about coding, mountain walks 🏔️ and stargazing 🔭
 
 ### Contacts:
