@@ -6,7 +6,7 @@
 - 💬 Ask me about coding, mountain walks 🏔️ and stargazing 🔭
 
 ### Contacts:
-- 📧: alena.guillaume4@gmail.com 
+- alena.guillaume4@gmail.com 
 - [Telegram]
 - [LinkedIn]
 
