@@ -4,8 +4,8 @@
 - 🔍 looking for position of junior react developer
 - 🌱 I’m currently learning React+Redux
 
-### Contacts📧:
-- e-mail: alena.guillaume4@gmail.com 
+### Contacts:
+- 📧: alena.guillaume4@gmail.com 
 - [Telegram]
 - [LinkedIn]
 
