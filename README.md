@@ -1,4 +1,4 @@
-### Hi there, I'm Alena and I'm a frontend developer👋
+### Hi there, I'm Alёna and I'm a frontend developer👋
 
 - 👩‍💻 I’m currently working on SavePets Website and 
 - 🔍 looking for position of junior react developer
