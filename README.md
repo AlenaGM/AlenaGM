@@ -1,8 +1,9 @@
 ### Hi there, I'm Alena and I'm a frontend developer👋
 
-- 🔭 I’m currently working on SavePets Website and 
+- 👩‍💻 I’m currently working on SavePets Website and 
 - 🔍 looking for position of junior react developer
 - 🌱 I’m currently learning React+Redux
+- 💬 Ask me about coding, mountain walks 🏔️ and stargazing 🔭
 
 ### Contacts:
 - 📧: alena.guillaume4@gmail.com 
