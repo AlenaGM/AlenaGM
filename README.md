@@ -18,6 +18,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[Mail]: <alena.guillaume4@gmail.com>
+[Mail]: <mailto:alena.guillaume4@gmail.com>
 [Telegram]: <https://t.me/alenagm>
 [LinkedIn]: <https://www.linkedin.com/in/alena-guillaume/>
