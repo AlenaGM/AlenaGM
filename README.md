@@ -7,7 +7,7 @@ I'm Alёna and I :heart: Frontend!
 - 💬 Ask me about coding, mountain walks 🏔️ and stargazing 🔭
 
 ### Contacts:
-- alena.guillaume4@gmail.com 
+- [E-mail]
 - [Telegram]
 - [LinkedIn]
 
@@ -26,3 +26,4 @@ I'm Alёna and I :heart: Frontend!
 
 [Telegram]: <https://t.me/alenagm>
 [LinkedIn]: <https://www.linkedin.com/in/alena-guillaume/>
+[E-mail]: <mailto: alena.guillaume4@gmail.com />
