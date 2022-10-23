@@ -2,7 +2,7 @@
 I'm Alёna and I :heart: Frontend!
 
 👩‍💻 I’m currently working on JavaScript and ReactJS <br>
-🔍 I’m currently learning advanced JavaScript and playing around with Sanity 🧸🚂<br>
+🔍 Right now I’m learning advanced JavaScript and playing around with Sanity 🧸🚂<br>
 💬 Ask me about coding, mountain walks 🏔️ and stargazing 🔭<br>
 
 ### Contacts:
