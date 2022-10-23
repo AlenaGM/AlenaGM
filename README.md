@@ -24,7 +24,10 @@ I'm Alёna and I :heart: Frontend!
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
 </div>
 
+### Resume:
+[Download my resume]
 
 [Telegram]: <https://t.me/alenagm>
 [LinkedIn]: <https://www.linkedin.com/in/alena-guillaume/>
 [E-mail]: <mailto: alena.guillaume4@gmail.com />
+[Download my resume]: <https://github.com/AlenaGM/AlenaGM/blob/200cebfd17f896933342cc60ad94ac663c4219f2/CV_Alena%20Guillaume_Frontend.pdf/>
