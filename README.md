@@ -1,5 +1,5 @@
 ### Hi there,👋
-I'm Alёna and I :heart: Frontend!
+I'm Alёna and I :heart: frontend!
 
 👩‍💻 I’m currently working on JavaScript and ReactJS <br>
 🔍 Right now I’m learning advanced JavaScript 👩‍🏫 and playing around with Sanity 🧸🚂<br>
