@@ -1,7 +1,7 @@
 ### Hi,👋
 I'm Alёna and I :heart: frontend!
 
-👩‍💻 I’m currently working on on TypeScript, ReactJS and VueJS <br>
+👩‍💻 I’m currently working on on JavaScript, ReactJS and VueJS <br>
 🎓 Right now I’m learning TypeScript and advanced JavaScript <br>
 💬 Ask me about coding, mountain walks 🏔️ and stargazing 🔭<br>
 
