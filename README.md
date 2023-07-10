@@ -23,10 +23,9 @@ I'm Alёna and I :heart: frontend!
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/AlenaGM/AlenaGM/blob/main/greensock.png" title="GSAP" alt="GSAP" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/AlenaGM/AlenaGM/blob/main/greensock1.png" title="GSAP" alt="GSAP" width="40" height="40"/> &nbsp;
-
 </div>
 
 [Telegram]: <https://t.me/alenagm>
