@@ -12,13 +12,16 @@ When I'm not coding, I enjoy: <br>
 🔭 Stargazing and watching caltech astronomy public lectures <br>
 
  I would like to know more about:<br>
- 💬 Web accessibility. Do you have any tips?
+ 💬 Web accessibility. Do you have any tips? <br><br>
 
+### Take a look at: 
+👩‍🎨 [My Portfolio] <br><br>
 
 ### Connect with me:
 - [E-mail]
 - [Telegram]
-- [LinkedIn]
+- [LinkedIn] <br><br>
+
 
 ### Technologies:
 <div>
@@ -37,3 +40,4 @@ When I'm not coding, I enjoy: <br>
 [Telegram]: <https://t.me/alenagm>
 [LinkedIn]: <https://www.linkedin.com/in/alena-guillaume/>
 [E-mail]: <mailto: alena.guillaume@yahoo.com />
+[My Portfolio]: <https://alenadev.netlify.app/>
