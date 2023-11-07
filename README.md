@@ -12,13 +12,13 @@ When I'm not coding, I enjoy: <br>
 🔭 Stargazing and watching caltech astronomy public lectures <br>
 
  I would like to know more about:<br>
- 💬 Web accessibility. Do you have any tips?<br><br>
+ 💬 Web accessibility. Do you have any tips?
 
 
 ### Connect with me:
 - [E-mail]
 - [Telegram]
-- [LinkedIn] <br><br>
+- [LinkedIn]
 
 ### Technologies:
 <div>
