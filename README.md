@@ -1,9 +1,18 @@
 ### Hi,👋
-I'm Alёna and I :heart: frontend!
+I'm Alёna and I 💖 frontend!
 
-👩‍💻 I’m currently working on on JavaScript, ReactJS and VueJS <br>
-🎓 Right now I’m learning TypeScript and advanced JavaScript <br>
-💬 Ask me about coding, mountain walks 🏔️ and stargazing 🔭<br>
+I started coding in 2021 after working in medical translation and website localization, and <br> 
+🎇 I'm living my childhood dream now!  <br>
+👩‍💻 I work with Vanilla JavaScript, ReactJS, and Vue3.  <br>
+🎓 Currently, I am learning TypeScript and exploring advanced JavaScript concepts. <br>
+
+When I'm not coding, I enjoy: <br> 
+🏔️ going on mountain walks (I currently live in the French Alps and was lucky to spend some years in the Norwegian fjords) <br>
+📖 reading long and complex books (I'm proud to say I made it halfway through Joyce's Ulysses in English) <br>
+🔭 stargazing and watching caltech astronomy public lectures <br>
+
+ I would like to know more about:
+ 💬 Web accessibility. Do you have any tips?
 
 
 ### Connect with me:
