@@ -19,8 +19,8 @@ When I'm not coding, I enjoy: <br>
 
 ### Connect with me:
 - [E-mail]
-- [Telegram]
 - [LinkedIn]
+- [Telegram]
 
 
 ### Technologies:
