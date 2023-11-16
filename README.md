@@ -8,7 +8,7 @@ I started coding in 2021, following years of experience in medical translation a
 
 When I'm not coding, I enjoy: <br> 
 🏔️ Going on mountain walks (I currently live in the French Alps and I was lucky to spend some years in the Norwegian fjords) <br>
-📖 Reading long and complex books (I'm proud to say I made it halfway through Joyce's Ulysses in English) <br>
+📖 Reading long and complex books (I'm proud to say I made it halfway through Joyce's Ulysses) <br>
 🔭 Stargazing and watching caltech astronomy public lectures <br>
 
  I would like to know more about:<br>
