@@ -1,18 +1,18 @@
 ### Hi,👋
 My name is Alёna and I 💖 frontend!<br>
 
-I started coding in 2021, following years of experience in medical translation and website localization. <br> 
+I started coding in 2021 after several years of work experience in medical translation and website localization. <br> 
 🎇 And now, I'm living my childhood dream!  <br>
 👩‍💻 I work with vanilla JavaScript, ReactJS, and VueJS.  <br>
-🎓 Currently, I am learning TypeScript and exploring advanced JavaScript concepts. <br>
+🎓 Currently, I am learning TypeScript. <br>
 
 When I'm not coding, I enjoy: <br> 
-🏔️ Going on mountain walks (I currently live in the French Alps and I was lucky to spend some years in the Norwegian fjords) <br>
+🏔️ Going on mountain walks (I currently live in the French Alps) <br>
 📖 Reading long and complex books (I'm proud to say I made it halfway through Joyce's Ulysses) <br>
-🔭 Stargazing and watching caltech astronomy public lectures <br>
+🔭 Stargazing and watching Caltech astronomy public lectures <br>
 
- I would like to know more about:<br>
- 💬 Web accessibility. Do you have any tips?
+ I would like to join a volunteer project in Web Development. <br>
+ 💬 Do you have any tips?
 
 ### Take a look at: 
 👩‍🎨 [My Portfolio]
