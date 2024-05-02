@@ -7,7 +7,7 @@ I started coding in 2021 after several years of work experience in medical trans
 🎓 Currently, I am learning TypeScript. <br>
 
 When I'm not coding, I enjoy: <br> 
-🏔️ Going on mountain walks (I currently live in the French Alps) <br>
+🏔️ Going on mountain walks (I live in the French Alps) <br>
 📖 Reading long and complex books (I'm proud to say I made it halfway through Joyce's Ulysses) <br>
 🔭 Stargazing and watching Caltech astronomy public lectures <br>
 
@@ -28,6 +28,7 @@ When I'm not coding, I enjoy: <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="Vite" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/AlenaGM/AlenaGM/blob/main/nuxt.png" title="NuxtJS" alt="NuxtJS" width="25" height="40"/> &nbsp;
   <img src="https://github.com/AlenaGM/AlenaGM/blob/main/pinia.png" title="Pinia" alt="Pinia" width="25" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> &nbsp;
