@@ -3,7 +3,7 @@ My name is Alёna and I 💖 frontend!<br>
 
 I started coding in 2021 after several years of work experience in medical translation and website localization. <br> 
 🎇 And now, I'm living my childhood dream!  <br>
-👩‍💻 I work with vanilla JavaScript, ReactJS, and VueJS.  <br>
+👩‍💻 I work with JavaScript, ReactJS, and VueJS.  <br>
 🎓 Currently, I am learning TypeScript. <br>
 
 When I'm not coding, I enjoy: <br> 
