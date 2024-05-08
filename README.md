@@ -7,15 +7,11 @@ I started coding in 2021 after several years of work experience in medical trans
 🎓 Currently, I am learning TypeScript. <br>
 
 When I'm not coding, I enjoy: <br> 
-🏔️ Going on mountain walks (I live in the French Alps) <br>
+🏔️ Going on mountain walks (I live in the French Alps) and <br>
 📖 Reading long and complex books (I'm proud to say I made it halfway through Joyce's Ulysses) <br>
-🔭 Stargazing and watching Caltech astronomy public lectures <br>
 
  I would like to join a volunteer project in Web Development. <br>
  💬 Do you have any tips?
-
-### Take a look at: 
-👩‍🎨 [My Portfolio]
 
 ### Connect with me:
 - [E-mail]
