@@ -14,10 +14,10 @@ When I'm not coding, I enjoy: <br>
  💬 Do you have any tips?
 
 ### Connect with me:
-- [E-mail]
-- [LinkedIn]
-- [Telegram]
 
+🏡 [E-mail][E-mail] **|** 
+📷 [LinkedIn][LinkedIn] **|** 
+👔 [Telegram][Telegram]
 
 ### Technologies:
 <div>
