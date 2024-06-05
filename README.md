@@ -15,9 +15,9 @@ When I'm not coding, I enjoy: <br>
 
 ### Connect with me:
 
-🏡 [E-mail][E-mail] **|** 
-📷 [LinkedIn][LinkedIn] **|** 
-👔 [Telegram][Telegram]
+<img src="https://github.com/AlenaGM/AlenaGM/blob/main/email.svg" title="email" alt="email" width="18"/> [E-mail][E-mail] **|** 
+<img src="https://github.com/AlenaGM/AlenaGM/blob/main/linkedin.svg" title="linkedin" alt="linkedin" width="18"/> [LinkedIn][LinkedIn] **|** 
+<img src="https://github.com/AlenaGM/AlenaGM/blob/main/telegram.svg" title="telegram" alt="telegram" width="18"/> [Telegram][Telegram]
 
 ### Technologies:
 <div>
