@@ -10,9 +10,6 @@ When I'm not coding, I enjoy: <br>
 🏔️ Going on mountain walks (I live in the French Alps) and <br>
 📖 Reading long and complex books (I'm proud to say I made it halfway through Joyce's Ulysses) <br>
 
- I would like to join a volunteer project in Web Development. <br>
- 💬 Do you have any tips?
-
 ### Connect with me:
 
 <img src="https://github.com/AlenaGM/AlenaGM/blob/main/email.svg" title="email" alt="email" height="20"/> [E-mail][E-mail]&ensp;**|**&ensp;
@@ -22,6 +19,7 @@ When I'm not coding, I enjoy: <br>
 ### Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/AlenaGM/AlenaGM/blob/main/pinia.png" title="Pinia" alt="Pinia" width="25" height="40"/> &nbsp;
@@ -45,4 +43,4 @@ When I'm not coding, I enjoy: <br>
 [Telegram]: <https://t.me/alenagm>
 [LinkedIn]: <https://www.linkedin.com/in/alena-guillaume/>
 [E-mail]: <mailto: alena.guillaume@yahoo.com />
-[My Portfolio]: <https://alenadev.netlify.app/>
+[My Portfolio]: <https://alenag.netlify.app/>
