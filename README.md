@@ -1,7 +1,7 @@
 ### Hi,👋
 My name is Alёna and I 💖 frontend!<br>
 
-I started coding in 2021 after several years of work experience in medical translation and website localization. <br> 
+I started coding in 2021 after several years of work experience in technical translation and website localization. <br> 
 🎇 And now, I'm living my childhood dream!  <br>
 👩‍💻 I work with JavaScript, ReactJS, and VueJS.  <br>
 🎓 Currently, I am learning TypeScript. <br>
@@ -19,7 +19,6 @@ When I'm not coding, I enjoy: <br>
 ### Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/AlenaGM/AlenaGM/blob/main/pinia.png" title="Pinia" alt="Pinia" width="25" height="40"/> &nbsp;
@@ -31,7 +30,6 @@ When I'm not coding, I enjoy: <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/AlenaGM/AlenaGM/blob/main/greensock.png" title="GSAP" alt="GSAP" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/> &nbsp;
 </div>
 
 
